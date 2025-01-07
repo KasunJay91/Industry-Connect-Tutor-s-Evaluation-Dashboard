@@ -1,6 +1,7 @@
 Tutor's Evaluation Dashboard for Industry Connect - BI Analyst Project
 
-![Tutor evalaution dashboard](https://github.com/user-attachments/assets/5377098b-85dc-4cee-b405-7477cf395488)
+
+![Tutor's Evalution Dashoard](https://github.com/user-attachments/assets/e1261dcf-3965-46c9-917b-33003cabaa4e)
 
 Overview
 
